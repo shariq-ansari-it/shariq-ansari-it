@@ -12,4 +12,5 @@ Day-to-day: infrastructure troubleshooting, identity and access management, endp
 - **Azure** — VMs, Azure Virtual Desktop, Automation Accounts, subscription/billing administration
 - **Microsoft Intune** — device compliance, app deployment and supersedence, Windows Hello/BitLocker policy
 - **Windows Server & networking** — RDS, firewalls, VPNs
+- **Sage 200 hosting** — client installs on Windows Server, multi-user access via RDP for customer teams
 - **Scripting** — PowerShell, Azure CLI
