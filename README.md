@@ -1,6 +1,8 @@
 ### Shariq Ansari
 IT Operations Administrator at Codis, London — Microsoft 365, Azure, Azure Virtual Desktop, and Intune.
 
+🔗 [LinkedIn](https://www.linkedin.com/in/shariq-ansari-91a7b3aa/)
+
 Day-to-day: infrastructure troubleshooting, identity and access management, endpoint management, and supporting the IaC workflows our dev team builds.
 
 **📓 [Troubleshooting Walkthroughs](https://github.com/shariq-ansari-it/troubleshooting-walkthroughs)** — 17 real infrastructure problems I've diagnosed and fixed, written up with the actual dead ends and root causes, not just the fix.
